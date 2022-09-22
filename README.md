@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Emily Rose Portfolio
+
+
+## About
+This is a web app to demonstrate my skills in React, Javascript, CSS, and HTML after a 3-month intensive course. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
